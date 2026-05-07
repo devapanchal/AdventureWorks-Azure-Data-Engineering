@@ -79,7 +79,6 @@ AdventureWorks-Azure-Data-Engineering/
 ├── pipelines/
 ├── notebooks/
 ├── sql/
-├── screenshots/
 ├── architecture/
 ├── README.md
 ```
@@ -119,21 +118,6 @@ Create the following Azure resources:
 
 ---
 
-# Screenshots
-
-## Architecture Diagram
-Add architecture diagram screenshot here.
-
-## Azure Data Factory Pipelines
-Add pipeline screenshots here.
-
-## Databricks Notebooks
-Add notebook execution screenshots here.
-
-## Power BI Dashboard
-Add dashboard screenshots here.
-
----
 
 # Learning Outcomes
 
@@ -170,6 +154,6 @@ Developed an end-to-end Azure Data Engineering pipeline using Azure Data Factory
 ## Dev Panchal
 
 - GitHub: https://github.com/devapanchal
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn:https://www.linkedin.com/in/devpanchal108/
 
 ---
