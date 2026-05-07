@@ -133,21 +133,6 @@ Through this project, I gained hands-on exposure to:
 
 ---
 
-# Future Improvements
-
-- CI/CD pipeline integration
-- Real-time streaming pipelines
-- Advanced monitoring and logging
-- Automated testing
-- Incremental data refresh optimization
-
----
-
-# Resume Project Description
-
-Developed an end-to-end Azure Data Engineering pipeline using Azure Data Factory, Azure Databricks, Azure Data Lake Storage, and Azure SQL Database. Implemented ETL workflows and Medallion Architecture to ingest, transform, and process AdventureWorks datasets using PySpark and SQL.
-
----
 
 # Author
 
